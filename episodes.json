@@ -1,0 +1,37 @@
+[
+  {
+    "number": "01",
+    "title": "Move Fast or Build Right",
+    "description": "A founding team chose to ship half-finished infrastructure to close a critical enterprise deal. Three years later, they're still paying for it — and they'd make the same call again.",
+    "tension": "Speed vs Quality",
+    "spotify": "#"
+  },
+  {
+    "number": "02",
+    "title": "The Platform Trap",
+    "description": "When your product becomes infrastructure, you gain leverage and lose focus at the same time. A conversation about the moment a tool decides — consciously or not — to become a platform.",
+    "tension": "Focus vs Flexibility",
+    "spotify": "#"
+  },
+  {
+    "number": "03",
+    "title": "Simple for Whom",
+    "description": "Simplicity is a product value, but it's never free. Every abstraction hides something. This episode is about the hidden cost of designing for the novice while your best users quietly leave.",
+    "tension": "Legibility vs Power",
+    "spotify": "#"
+  },
+  {
+    "number": "04",
+    "title": "Who the Product Is For",
+    "description": "The user and the buyer are often different people. Optimizing for one strains the other. A look at the organizational and design consequences of that split — and when it becomes untenable.",
+    "tension": "User vs Buyer",
+    "spotify": "#"
+  },
+  {
+    "number": "05",
+    "title": "When to Stop Listening",
+    "description": "Customer research is a virtue until it isn't. Some of the best product decisions came from ignoring what users said they wanted. A conversation about conviction, evidence, and when to trust yourself.",
+    "tension": "Conviction vs Evidence",
+    "spotify": "#"
+  }
+]
